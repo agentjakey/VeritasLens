@@ -15,8 +15,6 @@
 
 VeritasLens takes any AI generated text, splits it into individual claims, retrieves structured evidence for each one, and returns a verdict with cited sources and corrected text. It does not produce a binary hallucination flag. Every verdict is earned, evidenced, and explained.
 
-<img width="1856" height="2901" alt="image" src="https://github.com/user-attachments/assets/052a921d-ee39-4717-be83-b3562736a460" />
-
 **Five verdict types:**
 
 | Verdict | Meaning |
@@ -66,6 +64,7 @@ Output:
   Sources: Nobel Prize Foundation official records
   Corrected: Marie Curie won two Nobel Prizes.
 ```
+<img width="1856" height="2901" alt="image" src="https://github.com/user-attachments/assets/052a921d-ee39-4717-be83-b3562736a460" />
 
 ---
 
